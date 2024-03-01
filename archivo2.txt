@@ -1,1 +1,4 @@
 primera version de este segundo archivo.txt jijijiji
+
+
+Bien ahora acabamos de modificar el texto de este archivo.
